@@ -1,0 +1,13 @@
+label {
+    display: block;
+    margin-top: 10px;
+}
+
+textarea #feedback_text {
+    width: 280px;
+    height: 100px;
+}
+
+div .button {
+   margin-top: 10px; 
+}
